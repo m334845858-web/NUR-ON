@@ -1,3 +1,5 @@
+# The site is plain static HTML served from the repository root.
+# This overrides the publish directory set in the Netlify UI.
 [build]
   publish = "."
 
